@@ -348,3 +348,4 @@ export const WORDS = [
   // if backspace is pressed, 1 letter should be removed from current guess
   // if user presses enter + there are 5 letters in it, then current guess = finalized
   // otherwise, if they press enter and there are not 5 letters in it, there should be no effect
+export const newWords = ["goose", "trust", "cools", "treat", "sunny"]
