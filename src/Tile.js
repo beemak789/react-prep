@@ -1,7 +1,7 @@
 const Tile = ({ style, char }) => {
   return (
     <div
-      className="tile"
+      className={`tile ${style}`}
     >
       {char}
     </div>
